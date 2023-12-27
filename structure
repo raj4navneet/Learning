@@ -1,0 +1,3 @@
+Use CAMEL CASE for all namings
+__	for 1st level dir (for ex. __python or __glsl)
+_	for 2nd level dir (for ex. __python/_katana or __glsl/shaderToy
