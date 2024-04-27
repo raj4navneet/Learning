@@ -1,6 +1,0 @@
-// to be pasted in GraphToy
-
-f1(x,t)	=	abs(sin(PI*(x)/2))
-f2(x,t)	=	(pow(f1((x*2)+t), 0.5)/2)-1
-f3(x,t)	=	(pow(1-pow((f1(x)*1), .35), 0.35))
-f4(x,t)	=	(f3(x+t/2)*1.5)-2.48
